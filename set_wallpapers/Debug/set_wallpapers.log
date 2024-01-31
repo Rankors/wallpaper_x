@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\rankor\source\repos\WinFormsApp1\set_wallpapers\dllmain.cpp(4,1): warning C4005: _UNICODE: изменение макроопределения
+C:\Users\rankor\source\repos\WinFormsApp1\set_wallpapers\dllmain.cpp(4,1): message : "_UNICODE" ранее объявлен в командной строке
+C:\Users\rankor\source\repos\WinFormsApp1\set_wallpapers\dllmain.cpp(35,3): warning C4229: устаревший элемент: пропуск модификаторов для данных
+     Создается библиотека C:\Users\rankor\source\repos\WinFormsApp1\Debug\set_wallpapers.lib и объект C:\Users\rankor\source\repos\WinFormsApp1\Debug\set_wallpapers.exp
+  set_wallpapers.vcxproj -> C:\Users\rankor\source\repos\WinFormsApp1\Debug\set_wallpapers.dll
